@@ -124,196 +124,119 @@
                     <a href="add-hotel.php" class="btn btn-sm btn-success"><i class="fas fa-plus"></i></a>
                     </div>
                     <div class="card-body px-0 pt-0 pb-2">
-                    <div class="table-responsive p-0">
-                        <table class="table align-items-center mb-0">
-                        <thead>
-                            <tr>
-                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Thumbnail</th>
-                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Name</th>
-                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">City</th>
-                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Contact No</th>
-                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Expire Date</th>
-                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Action</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <div class="d-flex px-2 py-1">
-                                    <div>
-                                        <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
-                                    </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
-                                </td>
-                                <td class="align-middle text-center text-sm">
-                                    <span class="badge badge-sm bg-gradient-success">Yangon</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">0987654321</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
-                                    Edit
-                                    </a>
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
-                                    Delete
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="d-flex px-2 py-1">
-                                    <div>
-                                        <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
-                                    </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
-                                </td>
-                                <td class="align-middle text-center text-sm">
-                                    <span class="badge badge-sm bg-gradient-success">Yangon</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">0987654321</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
-                                    Edit
-                                    </a>
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
-                                    Delete
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="d-flex px-2 py-1">
-                                    <div>
-                                        <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
-                                    </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
-                                </td>
-                                <td class="align-middle text-center text-sm">
-                                    <span class="badge badge-sm bg-gradient-success">Yangon</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">0987654321</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
-                                    Edit
-                                    </a>
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
-                                    Delete
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="d-flex px-2 py-1">
-                                    <div>
-                                        <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
-                                    </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
-                                </td>
-                                <td class="align-middle text-center text-sm">
-                                    <span class="badge badge-sm bg-gradient-success">Yangon</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">0987654321</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
-                                    Edit
-                                    </a>
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
-                                    Delete
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="d-flex px-2 py-1">
-                                    <div>
-                                        <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
-                                    </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
-                                </td>
-                                <td class="align-middle text-center text-sm">
-                                    <span class="badge badge-sm bg-gradient-success">Yangon</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">0987654321</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
-                                    Edit
-                                    </a>
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
-                                    Delete
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="d-flex px-2 py-1">
-                                    <div>
-                                        <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
-                                    </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
-                                </td>
-                                <td class="align-middle text-center text-sm">
-                                    <span class="badge badge-sm bg-gradient-success">Yangon</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">0987654321</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
-                                </td>
-                                <td class="align-middle text-center">
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
-                                    Edit
-                                    </a>
-                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
-                                    Delete
-                                    </a>
-                                </td>
-                            </tr>
-                        </tbody>
-                        </table>
-                    </div>
+                      <div class="table-responsive p-0">
+                          <table class="table align-items-center mb-0">
+                          <thead>
+                              <tr>
+                              <th class="text-uppercase text-secondary text-xxs font-weight-bolder">Thumbnail</th>
+                              <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Name</th>
+                              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder">City</th>
+                              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder">Contact No</th>
+                              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder">Package</th>
+                              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder">Expire Date</th>
+                              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder">Action</th>
+                              </tr>
+                          </thead>
+                          <tbody>
+                              <tr>
+                                  <td>
+                                      <div class="d-flex px-2 py-1">
+                                      <div>
+                                          <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
+                                      </div>
+                                      </div>
+                                  </td>
+                                  <td>
+                                      <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
+                                  </td>
+                                  <td class="align-middle text-center text-sm">
+                                      <span class="text-secondary text-xs font-weight-bold">Yangon</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <span class="text-secondary text-xs font-weight-bold">0987654321</span>
+                                  </td>
+                                  <td class="align-middle text-center text-sm">
+                                      <span class="badge badge-sm bg-gradient-success">Free</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
+                                      Edit
+                                      </a>
+                                      <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
+                                      Delete
+                                      </a>
+                                  </td>
+                              </tr>
+                              <tr>
+                                  <td>
+                                      <div class="d-flex px-2 py-1">
+                                      <div>
+                                          <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
+                                      </div>
+                                      </div>
+                                  </td>
+                                  <td>
+                                      <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
+                                  </td>
+                                  <td class="align-middle text-center text-sm">
+                                      <span class="text-secondary text-xs font-weight-bold">Yangon</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <span class="text-secondary text-xs font-weight-bold">0987654321</span>
+                                  </td>
+                                  <td class="align-middle text-center text-sm">
+                                      <span class="badge badge-sm bg-gradient-warning">Premium</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
+                                      Edit
+                                      </a>
+                                      <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
+                                      Delete
+                                      </a>
+                                  </td>
+                              </tr>
+                              <tr>
+                                  <td>
+                                      <div class="d-flex px-2 py-1">
+                                      <div>
+                                          <img src="assets/img/team-2.jpg" class="avatar avatar-lg me-3" alt="user1">
+                                      </div>
+                                      </div>
+                                  </td>
+                                  <td>
+                                      <p class="text-xs font-weight-bold mb-0">Shwe Kaung Hot Pop</p>
+                                  </td>
+                                  <td class="align-middle text-center text-sm">
+                                      <span class="text-secondary text-xs font-weight-bold">Yangon</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <span class="text-secondary text-xs font-weight-bold">0987654321</span>
+                                  </td>
+                                  <td class="align-middle text-center text-sm">
+                                      <span class="badge badge-sm bg-gradient-danger">Pro</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <span class="text-secondary text-xs font-weight-bold">8-March-2023</span>
+                                  </td>
+                                  <td class="align-middle text-center">
+                                      <a href="javascript:;" class="text-secondary font-weight-bold text-xs me-3" data-toggle="tooltip" data-original-title="Edit user">
+                                      Edit
+                                      </a>
+                                      <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
+                                      Delete
+                                      </a>
+                                  </td>
+                              </tr>
+                          </tbody>
+                          </table>
+                      </div>
                     </div>
                 </div>
             </div>

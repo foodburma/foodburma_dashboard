@@ -89,7 +89,7 @@
   </script>
   <script>
     $(document).ready(function() {
-        $('.hotel-features').select2();
+        $('.features').select2();
     });
   </script>
   <script>

@@ -5,9 +5,9 @@
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent mb-0 pb-0 pt-1 px-0 me-sm-6 me-5">
             <li class="breadcrumb-item text-sm"><a class="opacity-5 text-dark" href="javascript:;">Pages</a></li>
-            <li class="breadcrumb-item text-sm text-dark active" aria-current="page">Add Hotel</li>
+            <li class="breadcrumb-item text-sm text-dark active" aria-current="page">Add Restaurants</li>
           </ol>
-          <h6 class="font-weight-bolder mb-0">Add Hotel</h6>
+          <h6 class="font-weight-bolder mb-0">Add Restaurants</h6>
         </nav>
         <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">
           <div class="ms-md-auto pe-md-3 d-flex align-items-center">
@@ -131,8 +131,8 @@
                                 </select>
                             </div>
                             <div class="col-md-6">
-                                <label for="name" class="form-label">Hotel Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="Hotel Name">
+                                <label for="name" class="form-label">Restaurant Name</label>
+                                <input type="text" class="form-control" id="name" placeholder="Restaurant Name">
                             </div>
                             <div class="col-6">
                                 <label for="address" class="form-label">Address</label>
@@ -159,8 +159,8 @@
                                 <input type="number" class="form-control" id="max-price" placeholder="Max Price">
                             </div>
                             <div class="col-md-6">
-                                <label for="hotel-type" class="form-label">Select Hotel Type</label>
-                                <select class="form-select" aria-label="Select Hotel Type">
+                                <label for="restaurant-type" class="form-label">Select Restaurant Type</label>
+                                <select class="form-select" aria-label="Select Restaurant Type">
                                     <option selected>--Select--</option>
                                     <option value="1">One</option>
                                     <option value="2">Two</option>
@@ -168,8 +168,8 @@
                                 </select>
                             </div>
                             <div class="col-md-6">
-                                <label for="hotel-feature" class="form-label">Select Hotel Feature</label>
-                                <select id="hotel-features" class="form-select features" aria-label="Select Hotel Feature" multiple="multiple">
+                                <label for="restaurant-feature" class="form-label">Select Restaurant Feature</label>
+                                <select id="restaurant-features" class="form-select features" aria-label="Select Restaurant Feature" multiple="multiple">
                                     <option value="1">One</option>
                                     <option value="2">Two</option>
                                     <option value="3">Three</option>
@@ -195,7 +195,7 @@
                                 <label for="expire-date" class="form-label">Expire Date</label>
                                 <input type="date" class="form-control" id="expire-date">
                             </div>
-                            <div class="col-md-12"><label for="hotel-type" class="form-label">Select Package</label>
+                            <div class="col-md-12"><label for="restaurant-type" class="form-label">Select Package</label>
                                 <select class="form-select" aria-label="Select Package">
                                     <option selected>--Select--</option>
                                     <option value="1">One</option>
