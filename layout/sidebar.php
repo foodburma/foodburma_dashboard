@@ -79,7 +79,7 @@ function active($currect_page){
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link  " href="pages/blog.html">
+          <a class="nav-link <?php active('blogs.php');?>" href="blogs.php">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>box-3d-50</title>
@@ -100,7 +100,7 @@ function active($currect_page){
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link  " href="pages/cities.html">
+          <a class="nav-link <?php active('cities.php');?>" href="cities.php">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>settings</title>
@@ -121,7 +121,7 @@ function active($currect_page){
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link  " href="pages/types.html">
+          <a class="nav-link <?php active('types.php');?>" href="types.php">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 46 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>customer-support</title>
@@ -142,7 +142,7 @@ function active($currect_page){
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link  " href="pages/features.html">
+          <a class="nav-link <?php active('features.php');?>" href="features.php">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="12px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>document</title>
@@ -162,7 +162,7 @@ function active($currect_page){
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link  " href="pages/notifications.html">
+          <a class="nav-link <?php active('notifications.php');?>" href="notifications.php">
             <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
               <svg width="12px" height="20px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>spaceship</title>

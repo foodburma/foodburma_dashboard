@@ -86,6 +86,11 @@
       selector: 'textarea#description',
       menubar: false
     });
+    tinymce.init({
+      selector: 'textarea#blog-description',
+      menubar: false,
+      height : "260"
+    });
   </script>
   <script>
     $(document).ready(function() {
